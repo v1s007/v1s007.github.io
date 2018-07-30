@@ -1,0 +1,119 @@
+﻿# Site settings
+title: LZP Blog
+SEOTitle: 龙泽平的博客 | LZP Blog
+header-img: img/post-bg-desk.jpg
+email: 2339093@QQ.com
+description: "Every failure is leading towards success."
+keyword: "LZP, LZP Blog, 龙泽平的博客, longzeping, 龙泽平, Android, Python, C++, C, Ruby, Go, Javascript, Java, 大数据, 机器学习, 人工智能, 量化投资"
+url: "http://longzeping.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/lgman/lgman.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# SNS settings
+RSS: true
+weibo_username:     1401193877
+zhihu_username:     longzeping
+github_username:    longzeping
+facebook_username:  zeping.long.5
+jianshu_username:   5f23b2a77d88
+
+#twitter_username:   longzeping
+
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# 评论系统
+# Disqus（https://disqus.com/）
+# disqus_username: qiubaiying
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: aafe7c361a63df2c2436                            #生成的clientID
+  clientSecret: 2d742104da5ec426ca74344e39542faeb8fb9239    #生成的clientSecret
+  repo: longzeping.github.io    #仓库名称
+  owner: longzeping    #github用户名
+  admin: longzeping
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
+# 统计
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 6aee594c83ee2b5717bc0514deb48712
+
+# Google Analytics
+ga_track_id: 'UA-123034168-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+
+
+
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "YiFan Blog",
+        href: "http://LiuYiFan.github.io"
+    },{
+        title: "简书·LZP",
+        href: "http://www.jianshu.com/u/5f23b2a77d88"
+    },{
+        title: "新浪博客.LZP",
+        href: "http://blog.sina.com.cn/longman007"
+    },{
+        title: "XuanYu Blog",
+        href: "http://LongXuanYu.github.io"
+    },{
+        title: "XingYu Blog",
+        href: "http://LongXingYu.github.io"
+    }
+]
