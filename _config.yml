@@ -2,12 +2,12 @@
 title: LZP Blog
 SEOTitle: 龙泽平的博客 | LZP Blog
 header-img: img/post-bg-desk.jpg
-email: 2339093@QQ.com
+email: longzeping@sina.com
 description: "Every failure is leading towards success."
 keyword: "LZP, LZP Blog, 龙泽平的博客, longzeping, 龙泽平, Android, Python, C++, C, Ruby, Go, Javascript, Java, 大数据, 机器学习, 人工智能, 量化投资"
-url: "http://longzeping.github.io"          # your host, for absolute URL
+url: "https://longzeping.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/lgman/lgman.github.io.git" # you code repository
+github_repo: "https://github.com/longzeping/longzeping.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -102,7 +102,7 @@ service-worker: true
 friends: [
     {
         title: "YiFan Blog",
-        href: "http://LiuYiFan.github.io"
+        href: "https://LiuYiFan.github.io"
     },{
         title: "简书·LZP",
         href: "http://www.jianshu.com/u/5f23b2a77d88"
@@ -111,9 +111,9 @@ friends: [
         href: "http://blog.sina.com.cn/longman007"
     },{
         title: "XuanYu Blog",
-        href: "http://LongXuanYu.github.io"
+        href: "https://LongXuanYu.github.io"
     },{
         title: "XingYu Blog",
-        href: "http://LongXingYu.github.io"
+        href: "https://LongXingYu.github.io"
     }
 ]
