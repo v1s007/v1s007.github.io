@@ -27,7 +27,7 @@ repo_name = "longzeping.github.io"  # 存放 issues的仓库
 label1 = "Gitalk"    # Issue的标签1，我用"Gitalk"标识这类issue是给Gitalk插件使用的
 label2 = "/2018/07/31/自动创建Github-Issues/"  # Issue的标签2，我用特定博文的pathname作标签，让issue和博文对应
 # Issue的内容
-issueBody = ["这是为博客文章《自动创建Github Issues》创建的评论仓库"] 
+issueBody = "这是为博客文章《自动创建Github Issues》创建的评论仓库" 
 # Issue的标题
 issueTitle = "自动创建Github Issues/"
 
