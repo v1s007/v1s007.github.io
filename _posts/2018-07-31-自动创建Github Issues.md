@@ -2,7 +2,7 @@
 layout:     post
 title:      自动创建Github Issue
 subtitle:   用ruby和Github API创建Issue
-date:       2018-07-30
+date:       2018-07-31
 author:     LZP[原创]
 header-img: img/post-sample-image.jpg
 catalog: true
