@@ -1,5 +1,18 @@
-## 团队工具：站会（Daily Scrum） 简介
+---
+layout:     post
+title:      团队工具：站会（Daily Scrum）
+subtitle:   Daily Scrum简介
+date:       2018-07-31
+author:     LZP
+header-img: img/post-bg-desk.jpg
+catalog: true
+tags:
+    - 工具
+    - 团队
+---
 
+
+## 团队工具：站会（Daily Scrum） 
 
 ![](https://upload-images.jianshu.io/upload_images/6970677-ec2b1cf6857d5c9b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 
