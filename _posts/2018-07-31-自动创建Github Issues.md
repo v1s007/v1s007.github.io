@@ -18,10 +18,10 @@ tags:
 
 ```ruby
 
-username = "longzeping" # GitHub 用户名
+username = "long***ing" # GitHub 用户名
 # GitHub Token，在账户设置中申请，具体参考文尾《Github Token的申请和使用》
 token = "246c14c************aa621dcdfe6a5643acdf3"   
-repo_name = "longzeping.github.io"  # 存放 issues的仓库
+repo_name = "long***ing.github.io"  # 存放 issues的仓库
 
 # Issue标签，Issue可以加很多个标签
 label1 = "Gitalk"    # Issue的标签1，我用"Gitalk"标识这类issue是给Gitalk插件使用的

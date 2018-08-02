@@ -26,10 +26,10 @@ tags:
 #    - jekyll-sitemap   #jekyll的站点地图插件，用于生成站点地图
 
 # 需要初始化Gitalk评论的网址，以下四条需修改为自己的内容
-site_url = "https://longzeping.github.io"  # 需修改为自己的网址
-username = "longzeping" # GitHub 用户名，需修改为自己的用户名
+site_url = "https://long***ing.github.io"  # 需修改为自己的网址
+username = "long***ing" # GitHub 用户名，需修改为自己的用户名
 token = "246c14c************aa621dcdfe6a5643acdf3"   # GitHub Token，在账户设置中申请
-repo_name = "longzeping.github.io"  # 存放 issues，需修改为自己的仓库名
+repo_name = "long***ing.github.io"  # 存放 issues，需修改为自己的仓库名
 
 # Issue标签，Issue可以加很多个标签
 label1 = "Gitalk"    # Issue的标签1，我用"Gitalk"标识这类issue是给Gitalk插件使用的
