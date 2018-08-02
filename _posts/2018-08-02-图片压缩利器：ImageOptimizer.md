@@ -3,7 +3,7 @@ layout:     post
 title:      网站必备：图片压缩利器ImageOptimizer
 subtitle:   让图片变得苗条，让网站飞！
 date:       2018-08-02
-author:     LZP
+author:     LZP[原创]
 header-img: img/bg-it1.jpg
 catalog: true
 tags:
