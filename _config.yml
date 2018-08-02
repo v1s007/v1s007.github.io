@@ -1,7 +1,7 @@
 ﻿# Site settings
 title: LZP Blog
 SEOTitle: 龙泽平的博客 | LZP Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/bg-home1.jpg
 email: longzeping@sina.com
 description: "Every failure is leading towards success."
 keyword: "LZP, LZP Blog, 龙泽平的博客, longzeping, 龙泽平, Android, Python, C++, C, Ruby, Go, Javascript, Java, 大数据, 机器学习, 人工智能, 量化投资"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/longzeping/longzeping.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-lzp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -62,7 +62,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: longzeping
 
 # Gitalk
 gitalk:
