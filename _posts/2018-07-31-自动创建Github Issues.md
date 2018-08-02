@@ -4,7 +4,7 @@ title:      自动创建Github Issue
 subtitle:   用ruby和Github API创建Issue
 date:       2018-07-31
 author:     LZP[原创]
-header-img: img/post-sample-image.jpg
+header-img: img/bg-it7.jpg
 catalog: true
 tags:
     - ruby

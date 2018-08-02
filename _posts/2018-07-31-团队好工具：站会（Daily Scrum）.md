@@ -4,7 +4,7 @@ title:      团队工具：站会（Daily Scrum）
 subtitle:   Daily Scrum简介
 date:       2018-07-31
 author:     LZP
-header-img: img/post-bg-desk.jpg
+header-img: img/bg-it1.jpg
 catalog: true
 tags:
     - 工具

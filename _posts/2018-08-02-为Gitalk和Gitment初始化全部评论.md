@@ -4,7 +4,7 @@ title:      为Gitalk和Gitment初始化全部评论
 subtitle:   用ruby和Github API初始化博客的全部评论
 date:       2018-08-02
 author:     LZP[原创]
-header-img: img/post-sample-image.jpg
+header-img: img/bg-it8.jpg
 catalog: true
 tags:
     - ruby
