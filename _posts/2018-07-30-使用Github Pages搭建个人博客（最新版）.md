@@ -3,7 +3,7 @@ layout:     post
 title:      Github+Jekyll搭建个人博客（最新版）
 subtitle:   手把手教你建个人站点
 date:       2018-07-30
-author:     LZP
+author:     LZP[原创]
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
