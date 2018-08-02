@@ -41,7 +41,10 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 # gems: [jekyll-paginate]
-plugins: [jekyll-paginate]
+# plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate  #jekyll的分页插件，用于文章列表的分页
+  - jekyll-sitemap   #jekyll的站点地图插件，用于生成站点地图
 
 
 
