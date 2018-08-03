@@ -11,7 +11,6 @@ tags:
     - 标记语言
 ---
 
-
 > **这篇《实用reStructuredText实践指南》，完全使用Markdown语言写成！**
 > **其中，有一些不是标准Markdown语法，属于扩展实现。**
 > **另外，Markdown不支持表格，可以嵌入html代码实现复杂表格，扩展的Markdown，根据扩展的不一样，可以实现的表格式样也不一样。**

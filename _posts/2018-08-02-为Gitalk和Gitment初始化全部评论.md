@@ -14,7 +14,7 @@ tags:
 
 ## 为Gitalk和Gitment初始化全部评论
 
-### 这段ruby代码，自动根据网址，为Gitalk、Gitment初始化全部评论
+#### 这段ruby代码，自动根据网址，为Gitalk、Gitment初始化全部评论
 
 ```ruby
 
@@ -77,9 +77,9 @@ end
 
 **把这段代码保存为文件 InitCommentForGithubSite.rb**
 
-### 执行这段代码即可
+#### 执行这段代码即可
 
-#### 命令行执行
+###### 命令行执行
 >ruby InitCommentForGithubSite.rb
 
 ----

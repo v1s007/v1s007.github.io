@@ -14,7 +14,7 @@ tags:
 
 ## 自动创建Github Issue
 
-### 这段ruby代码，自动在Github中加入一条issue
+#### 这段ruby代码，自动在Github中加入一条issue
 
 ```ruby
 
@@ -52,9 +52,9 @@ puts response.body
 ```
 **把这段代码保存为文件createissueforgithub.rb**
 
-### 执行这段代码即可
+#### 执行这段代码即可
 
-#### 命令行执行
+###### 命令行执行
 >ruby createissueforgithub
 
 ----

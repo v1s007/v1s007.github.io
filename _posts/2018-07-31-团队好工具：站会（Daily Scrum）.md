@@ -11,7 +11,6 @@ tags:
     - 团队
 ---
 
-
 ## 团队工具：站会（Daily Scrum） 
 
 ![](https://upload-images.jianshu.io/upload_images/6970677-ec2b1cf6857d5c9b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)

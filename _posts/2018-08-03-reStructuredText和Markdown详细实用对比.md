@@ -12,7 +12,7 @@ tags:
     - 标记语言
 ---
 
->  以下内容，reStructuredText简称RST，Markdown简称md
+> 以下内容，reStructuredText简称RST，Markdown简称md
 
 ## 目录
 
