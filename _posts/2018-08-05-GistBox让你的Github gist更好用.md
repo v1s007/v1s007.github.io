@@ -39,7 +39,7 @@ tags:
 > [Gitbox Windows App](https://www.cacher.io/)
 > [Gitbox WebApp](https://app.cacher.io/sign-up)
 > [Gitbox Clipper](http://www.gistboxapp.com/#clipper-extension)
-
+> 相似软件：[gisto](https://www.gistoapp.com/)
 
 gistbox使管理、添加、使用gist（代码段）变得非常容易，长时间积累必定受益匪浅。
 当然除了保存代码段之外，可以在gist保存你想保存的任何东西，比如技术总结、填过的坑。
