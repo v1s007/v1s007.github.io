@@ -15,6 +15,8 @@ tags:
 > 
 > * setting Sync的安装非常简单，打开Visual Source Code的“扩展”侧边栏，输入"setting Sync"查找，找到点击安装即可。
 > 
+> *  也可以直接打开这个[链接地址](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)，点击“install"(安装)。
+> 
 > * 本人安装成功，同步visual source code的设置到github gist，可[参考](https://gist.github.com/longzeping/30076e10f9423df34b88445a2920fcc5)
 > 
 > * 安装和使用中，如果有疑问，欢迎在本文后面留言！
